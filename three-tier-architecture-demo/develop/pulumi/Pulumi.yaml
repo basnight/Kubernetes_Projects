@@ -1,3 +1,0 @@
-name: zephyr-local
-runtime: nodejs
-description: A TypeScript Pulumi program for local Zephyr testing
