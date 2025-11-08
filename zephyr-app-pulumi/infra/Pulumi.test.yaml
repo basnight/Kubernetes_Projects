@@ -1,4 +1,0 @@
-config:
-  zephyr-app:eksOrgName: zephyr
-  zephyr-app:eksProjName: zephyr-k8s
-  zephyr-app:eksStackName: test
